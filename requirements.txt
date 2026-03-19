@@ -1,0 +1,10 @@
+gradio>=3.0
+pillow==10.4.0
+numpy==1.24.4
+torch==2.4.1
+torchvision==0.19.1
+onnx==1.17.0
+onnxruntime==1.19.2
+# Optional GPU runtime (install if you have a CUDA GPU):
+# onnxruntime-gpu==1.19.2
+# For TensorRT conversion, follow NVIDIA TensorRT install guides and use `trtexec`.

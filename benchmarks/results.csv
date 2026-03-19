@@ -1,0 +1,3 @@
+name,torch_cpu_s,torch_cuda_s,onnx_cpu_s,onnx_gpu_s
+examples/limes.jpg,0.002022,,0.002005,0.001475
+examples/limes.jpg,0.002616,,0.002055,0.002004
